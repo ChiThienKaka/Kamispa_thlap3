@@ -3,4 +3,4 @@ Bùi chí thiện
 D20CNTT04
 # Demo 1
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://drive.google.com/file/d/17JlpUoXdCcyksw1XzmSgyCU9C3GV0H6E/view?usp=sharing)
