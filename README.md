@@ -1,2 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Bùi chí thiện 
+2024802010042
+D20CNTT04
 # Demo 1
