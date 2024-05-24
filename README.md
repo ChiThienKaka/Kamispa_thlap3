@@ -1,7 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 # Demo 1
 
-<iframe src="https://drive.google.com/file/d/17JlpUoXdCcyksw1XzmSgyCU9C3GV0H6E/preview" width="640" height="480" allow="autoplay"></iframe>
+[Watch the video]([https://drive.google.com/uc?id=17JlpUoXdCcyksw1XzmSgyCU9C3GV0H6E](https://drive.google.com/file/d/17JlpUoXdCcyksw1XzmSgyCU9C3GV0H6E/view?usp=sharing))
 
 # Getting Started
 
