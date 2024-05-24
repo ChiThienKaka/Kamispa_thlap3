@@ -3,4 +3,4 @@ Bùi chí thiện
 D20CNTT04
 # Demo 1
 
-[![Watch the video](https://img.youtube.com/vi/17JlpUoXdCcyksw1XzmSgyCU9C3GV0H6E/0.jpg)](https://drive.google.com/file/d/17JlpUoXdCcyksw1XzmSgyCU9C3GV0H6E/view)
+[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/860px-Google_Drive_icon_%282020%29.svg.png)](https://drive.google.com/file/d/17JlpUoXdCcyksw1XzmSgyCU9C3GV0H6E/view)
