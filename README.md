@@ -1,7 +1,11 @@
 Bùi chí thiện 
 2024802010042
 D20CNTT04
-# Demo 1
+# Demo
+
+https://github.com/ChiThienKaka/Kamispa_thlap3/assets/166148029/4a15d2f7-5e2f-4885-b717-7e058d3d1d9d
+
+# Link yoube
 
 [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=pho0UmnMsYE)
 
